@@ -1,6 +1,6 @@
 {
   "name": "tasteray",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The official TypeScript library for the Tasteray API",
   "author": "Tasteray <michal.jaskolski@tasteray.com>",
   "types": "dist/index.d.ts",
