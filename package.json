@@ -1,12 +1,12 @@
 {
   "name": "tasteray",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The official TypeScript library for the Tasteray API",
   "author": "Tasteray <michal.jaskolski@tasteray.com>",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "type": "commonjs",
-  "repository": "github:stainless-sdks/tasteray-typescript",
+  "repository": "github:majcheradam/tasteray-typescript",
   "license": "MIT",
   "packageManager": "pnpm@10.14.0",
   "files": [
